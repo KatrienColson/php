@@ -1,0 +1,2 @@
+define("file-viewer/public/support",["require","exports","file-viewer/core/utils","file-viewer/core/data/models"],(function(e,r,i,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.PreviewType=r.isPreviewTypeSupported=void 0,Object.defineProperty(r,"isPreviewTypeSupported",{enumerable:!0,get:function(){return i.isPreviewTypeSupported}}),Object.defineProperty(r,"PreviewType",{enumerable:!0,get:function(){return t.PreviewType}})}));
+//# sourceMappingURL=pkg-fvsdk-support.min.js-vflp81qQI.map
